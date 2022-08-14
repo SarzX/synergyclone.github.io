@@ -1,0 +1,515 @@
+@media (max-width: 1735px) {
+  body .form-title {
+    text-align: center;
+  }
+  body .form form input {
+    margin: 0;
+  }
+  body .form form {
+    text-align: center;
+  }
+  body .form form button {
+    margin-top: 20px;
+  }
+  body .form .form-check {
+    justify-content: center;
+  }
+  body .form-title {
+    padding-left: 0;
+  }
+  body .training__title {
+    padding-left: 15px;
+  }
+  body .training__wrap {
+    padding: 0 15px;
+  }
+  body .professor__wrap {
+    flex-wrap: wrap;
+  }
+  body .professor__inner {
+    padding: 5px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    // align-items: center;
+    // margin-bottom: 20px;
+    // width: 60%;
+  }
+  body .work .work__wrap {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 1400px) {
+  body .partners__wrap {
+    padding-bottom: 90px;
+  }
+  body .partners__wrap img {
+    margin-left: 21px;
+    margin-right: 21px;
+  }
+  body .footer__link {
+    display: none;
+  }
+  body .corpus {
+    flex-wrap: wrap;
+  }
+  body .corpus__col {
+    width: 100%;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  body .corpus__col-block,
+  body .corpus__col-block.revers {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 1290px) {
+  body .banner .banner__title {
+    font-size: 90px;
+    margin-top: 30px;
+  }
+  body .banner .banner__sphere {
+    max-width: 500px;
+  }
+  body .work .work__wrap {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  body .work .work__inner {
+    width: 40%;
+  }
+  body .work .work__inner + .work__inner {
+    margin-left: 0;
+  }
+  body .work .work__inner {
+    margin-bottom: 50px;
+  }
+  body .diploms__wrap {
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+  }
+  body .diploms__description {
+    width: 100%;
+    margin-right: 0;
+    padding-bottom: 60px;
+  }
+  body .diploms__block {
+    width: 100%;
+    justify-content: center;
+  }
+  body .professor__title {
+    padding-top: 90px;
+  }
+  body .professor__inner-info {
+    padding-right: 0;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+  body .professor__inner-name {
+    padding-right: 0;
+    padding-top: 30px;
+    text-align: center;
+  }
+  body .professor__wrap {
+    padding-bottom: 90px;
+  }
+  body .partners__title {
+    padding-top: 90px;
+  }
+  body .partners__wrap {
+    padding-top: 20px;
+  }
+  body .faq__title {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  body .faq .accordion {
+    padding-bottom: 90px;
+  }
+  body .contacts__wrap {
+    padding-top: 60px;
+    padding-bottom: 90px;
+    flex-wrap: wrap;
+  }
+  body .contacts__wrap-block {
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  body .contacts__map-block {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 980px) {
+  body .banner .banner__title {
+    font-size: 70px;
+  }
+  body .banner .banner__subtitle {
+    font-size: 23px;
+    margin-top: 20px;
+  }
+  body .work .work__title {
+    padding-top: 100px;
+    font-size: 50px;
+  }
+  body .work .work__wrap {
+    padding-bottom: 60px;
+  }
+  body .diploms {
+    background: none;
+    background-color: #eff2f9;
+  }
+  body .professor__title {
+    padding-top: 60px;
+    font-size: 45px;
+  }
+  body .adress__wrap {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  body .adress__wrap .adress__inner {
+    width: 80%;
+    margin-bottom: 50px;
+  }
+  body .adress__inner-adress {
+    padding-top: 10px;
+  }
+  body .adress__wrap {
+    padding-bottom: 90px;
+  }
+}
+@media (max-width: 918px) {
+  body .form form input {
+    margin-bottom: 15px;
+  }
+  body .form-title {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  body .training__inner {
+    width: 100%;
+  }
+  body .advantages__title {
+    padding-top: 60px;
+  }
+  body .advantages__wrap {
+    padding-bottom: 60px;
+  }
+}
+@media (max-width: 860px) {
+  body .header__wrapper .header__logo {
+    display: none;
+  }
+  body .header__whatsapp {
+    margin-right: auto;
+    margin-left: 0;
+  }
+  body .banner .banner__subtitle {
+    font-size: 18px;
+  }
+  body .banner .banner__sphere {
+    padding-bottom: 40px;
+    padding-top: 60px;
+    max-width: 80%;
+  }
+  body .banner {
+    background: none;
+    background-color: #eff2f9;
+  }
+  body .work .work__inner {
+    width: 80%;
+  }
+  body .work .work__title {
+    padding-top: 60px;
+  }
+  body .work {
+    background: none;
+  }
+  body .future__title {
+    padding-top: 90px;
+    font-size: 50px;
+  }
+  body .faq .accordion-header {
+    font-size: 21px;
+    padding-left: 20px;
+  }
+  body .faq .accordion-header::after {
+    font-size: 40px;
+    line-height: 0.5;
+  }
+  body .feedback__title {
+    font-size: 90px;
+    width: 600px;
+  }
+  body .feedback {
+    background: none;
+    background-color: #eff2f9;
+  }
+}
+
+@media (max-width: 720px) {
+  body .banner .univers a {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  body .advantages__title {
+    font-size: 38px;
+  }
+
+  body .work .work__wrap {
+    padding-top: 80px;
+  }
+  body .diploms__wrap {
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  body .future__title {
+    padding-top: 60px;
+    font-size: 40px;
+  }
+  body .future__btn {
+    padding-bottom: 90px;
+  }
+  body .future__wrap {
+    padding-bottom: 50px;
+  }
+  body .professor__title {
+    padding-top: 50px;
+    font-size: 35px;
+  }
+  body .professor__wrap {
+    padding-bottom: 40px;
+  }
+  body .professor__inner {
+    width: 90%;
+  }
+  body .faq .accordion-body {
+    padding: 20px;
+  }
+  body .adress__wrap .adress__inner {
+    width: 100%;
+  }
+  body .footer__phone {
+    display: none;
+  }
+  body .corpus__col-block,
+  body .corpus__col-block.revers {
+    height: 100%;
+  }
+  body .corpus__col-block.revers {
+    padding-top: 20px;
+  }
+  body .feedback__title {
+    font-size: 70px;
+    width: 500px;
+  }
+  body .feedback__subtitle {
+    font-size: 20px;
+    width: 500px;
+  }
+}
+
+@media (max-width: 550px) {
+  body .header__whatsapp {
+    display: none;
+  }
+  body .header__phone {
+    margin: 0 auto;
+  }
+
+  body .banner .banner__subtitle {
+    font-size: 18px;
+  }
+  body .banner .banner__sphere a {
+    margin-bottom: 30px;
+  }
+
+  body .form form button {
+    padding: 17px 90px;
+  }
+  body .form form {
+    padding: 0 10px;
+  }
+  body .form form .form-input {
+    max-width: 100%;
+  }
+  body .form-title {
+    font-size: 30px;
+    padding-top: 40px;
+  }
+  body .training__title {
+    padding-top: 60px;
+  }
+  body .training__inner-subtitle {
+    font-size: 45px;
+  }
+  body .training__link {
+    padding-bottom: 90px;
+  }
+  body .advantages__title {
+    padding-top: 40px;
+  }
+  body .advantages__wrap {
+    padding-top: 30px;
+  }
+  body .advantages__text {
+    font-size: 16px;
+    padding-right: 10px;
+  }
+  body .work .work__inner {
+    width: 95%;
+  }
+  body .work .work__profy-wrap .work__profy-post {
+    font-size: 25px;
+  }
+  body .title {
+    font-size: 50px;
+  }
+  body .future__title {
+    padding-top: 40px;
+    font-size: 30px;
+  }
+
+  body .professor__title {
+    font-size: 32px;
+  }
+  body .faq .accordion-header {
+    font-size: 16px;
+    padding-left: 10px;
+  }
+  body .faq .accordion-header::after {
+    right: 10px;
+    font-size: 30px;
+  }
+  body .footer__logo {
+    padding: 30px 0;
+  }
+  body .footer__whatsapp {
+    display: none;
+  }
+  body .feedback__title {
+    font-size: 50px;
+    width: 100%;
+    line-height: 1.2;
+  }
+  body .feedback__subtitle {
+    font-size: 20px;
+    width: 100%;
+  }
+}
+@media (max-width: 445px) {
+  body .banner .univers {
+    padding-top: 60px;
+  }
+  body .advantages__title {
+    font-size: 26px;
+  }
+  body .banner .banner__sphere {
+    max-width: 100%;
+  }
+  body .title {
+    font-size: 40px;
+  }
+  body .diploms__subtitle {
+    padding-top: 40px;
+  }
+  body .diploms__text {
+    font-size: 20px;
+  }
+  body .future__title {
+    padding-top: 40px;
+    font-size: 30px;
+  }
+  body .future__btn {
+    padding-bottom: 60px;
+  }
+  body .future__btn a {
+    padding: 16px 25px;
+    font-size: 16px;
+  }
+  body .future__title {
+    font-size: 22px;
+  }
+  body .professor__title {
+    font-size: 25px;
+  }
+
+  body .professor__inner-name {
+    text-align: center;
+    font-size: 22px;
+  }
+  body .faq__title {
+    font-size: 45px;
+  }
+  body .faq .accordion-body {
+    padding: 10px;
+    font-size: 18px;
+  }
+  body .adress__title {
+    font-size: 35px;
+  }
+  body .adress__wrap {
+    padding-bottom: 50px;
+  }
+}
+@media (max-width: 400px) {
+  body .banner .banner__title {
+    font-size: 50px;
+  }
+  body .banner .univers {
+    padding-top: 40px;
+  }
+  body .banner .banner__subtitle {
+    font-size: 16px;
+  }
+
+  body .training__inner-subtitle {
+    font-size: 35px;
+  }
+  body .training__inner-text {
+    font-size: 20px;
+  }
+  body .advantages__text {
+    font-size: 14px;
+  }
+  body .work .work__title {
+    font-size: 40px;
+    padding-top: 40px;
+  }
+  body .work .work__wrap {
+    padding-top: 40px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body .training__title {
+    font-size: 45px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  body .adress__title {
+    font-size: 32px;
+  }
+  body .faq .accordion-header {
+    font-size: 14px;
+  }
+  body .faq__title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 45px;
+  }
+  body .professor__title {
+    font-size: 22px;
+  }
+  body .corpus__col-block-wrap {
+    width: 100%;
+  }
+  body .corpus {
+    padding-bottom: 90px;
+  }
+  body .feedback__title {
+    font-size: 40px;
+  }
+}
